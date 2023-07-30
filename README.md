@@ -1,6 +1,20 @@
-### Hi there, I'm Ashik 👋
+## Hey there, I'm Ashik 👋
 
-- 📫 How to reach me: ashikjhonson@gmail.com 
+<a href="#">
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=ashikjhonson&show_icons=true&theme=holi" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashikjhonson&layout=compact&card_width=320&show_icons=true&theme=holi" />
+</a>
 
- About Me: I'm an UG student, currently pursuing B.Tech in CSE from APJ KTU. Studying at Vimal Jyothi Engineering College. I would like to learn more about Programming through making new friends, so let's get connected. Feel free to contact me @ ashikjhonson@gmail.com Meet you soon, bye 👋 
+<h3>My Fav Repos</h3>
+ <a href="https://github.com/ashikjhonson/friendly-waddle">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ashikjhonson&repo=friendly-waddle&theme=chartreuse-dark" />
+</a>
+<a href="https://github.com/ashikjhonson/KTU-CSE">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashikjhonson&repo=KTU-CSE&theme=chartreuse-dark" />
+</a>
+<!-- <h3>My Bagdes</h3> -->
+
+ ### My Bagdes
 [![@ashikjhonson's Holopin board](https://holopin.me/ashikjhonson)](https://holopin.io/@ashikjhonson)
