@@ -14,7 +14,6 @@
 <a href="https://github.com/ashikjhonson/KTU-CSE">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashikjhonson&repo=KTU-CSE&theme=chartreuse-dark" />
 </a>
-<!-- <h3>My Bagdes</h3> -->
 
  ### My Bagdes
 [![@ashikjhonson's Holopin board](https://holopin.me/ashikjhonson)](https://holopin.io/@ashikjhonson)
