@@ -15,5 +15,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashikjhonson&repo=KTU-CSE&theme=chartreuse-dark" />
 </a>
 
- ### My Bagdes
+ ### My Badges
 [![@ashikjhonson's Holopin board](https://holopin.me/ashikjhonson)](https://holopin.io/@ashikjhonson)
